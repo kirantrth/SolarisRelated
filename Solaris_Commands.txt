@@ -1,0 +1,17 @@
+this command need to execute to find sun workshop / compiler version on solaris.
+CC -V 
+========================================================================================
+
+* find command in Solaris:
+	find . -type f  -exec grep -l "kidding" {} +
+
+This will search for word kidding in given directory.
+==========================================================================================
+
+sudo su - mhcbsg2004
+passwd -> ngt123
+================================================================================================
+
+* while opening a file in Vi editor if you get an erro like 'Terminal too wide' then use below command and try opening file.
+	stty columns 120
+=====================================================================================================
